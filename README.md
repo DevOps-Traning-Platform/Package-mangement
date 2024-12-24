@@ -1,2 +1,0 @@
-# Package-mangement
-Maven installation
